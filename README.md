@@ -29,21 +29,29 @@ An egglocke is very similar to a Nuzlocke, but it is different in the sense that
 6. Viridian Forest
 7. Pewter city
 8. Diglett Cave
+
 [Gym 1]
+
 9. Route 3
 10. Route 4
 11. Mt. moon
 12. Cerulean city
 13. Route 24
 14. Route 25
+
+
 [Gym 2]
+
+
 15. Route 5
 16. Underground path
 17. Route 6
 18. Vermillion city
 19. S.S. Anne
 20. Route 11
+
 [Gym 3]
+
 21. Route 9
 22. Route 10
 23. Rock Tunnel
@@ -54,10 +62,14 @@ An egglocke is very similar to a Nuzlocke, but it is different in the sense that
 28. Celadon City
 29. Route 16
 30. Saffron City 
+
 [Gym 4]
+
 31. Pokemon Tower
 32.  Silph co.
+
 [Gym 5]
+
 33. Route 17
 34. Route 13
 35. Route 14
@@ -65,7 +77,9 @@ An egglocke is very similar to a Nuzlocke, but it is different in the sense that
 37. Fuschia city
 38. Safari zone
 39. Route 18
+
 [Gym 6]
+
 40. Power plant
 41. Route 23
 42. Route 19
@@ -74,9 +88,14 @@ An egglocke is very similar to a Nuzlocke, but it is different in the sense that
 45. Cinnabar Island
 46. Pokemon Mansion
 47. Route 21
+
 [Gym 7]
+
 48. Cerulean Cave
+
 [Gym 8]
+
 49. Victory road
 50. Indigo plateau
+
 [Elite four]
