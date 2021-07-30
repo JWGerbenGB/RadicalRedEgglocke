@@ -1,9 +1,16 @@
 # Radical Red Egglocke
 A custom gamemode for the Rom hack Pokemon Radical Red.
-Download link to the savefile is at the bottom.
+Download link to the savefile is at in the files above.
 
 # What is an Egglocke?
 An egglocke is very similar to a Nuzlocke, but it is different in the sense that instead of encountering a pokemon on a route, you must hatch a random egg from your box on that route.
+
+# Where to report bugs/issues?
+If there are any bugs or issues, please privately message Gerben#4558 on discord. 
+Do not bother the Radical Red (Development) Team with it, as they are not responsible for any issues that may arise from using the save file.
+
+# Themed runs
+If you do want to do a themed run, for example mono water or mono gen 7, there is a tool in the tools folder to create a save file with only eggs that follow your challenge. You can also make legendaries less common or outright disable certain categories (like disable any pokemon from gens 5-8, and ban all mythical pokemon). 
 
 # What are the rules?
 1. You may hatch 1 egg per place from the encounter list (see below). It must hatch at that place for it to count!
