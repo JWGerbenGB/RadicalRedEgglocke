@@ -1,6 +1,7 @@
 # Radical Red Egglocke
 A custom gamemode for the Rom hack Pokemon Radical Red.
 Download link to the savefile is at in the files above.
+This save file was made at version 2.3a, if it becomes invalid, the 2.3a UPS file is stored in this repository.
 
 # What is an Egglocke?
 An egglocke is very similar to a Nuzlocke, but it is different in the sense that instead of encountering a pokemon on a route, you must hatch a random egg from your box on that route.
