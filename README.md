@@ -107,3 +107,17 @@ If you do want to do a themed run (for example mono water or mono gen 7), there 
 50. Indigo plateau
 
 [Elite four]
+
+# How to install?
+Step 1: Do you want to download the master save file, which includes all first-stage pokemon? Download the "Pokemon Radical Red V2.3a Egglocke.sav" file and skip to step 10, if instead you want to play a themed run (such as mono-legendary, mono water, mono gen 5 etc.), continue to step 2.
+Step 2: Download the "Radical Red Egglocke Save Generator.jar", located in the Tool folder.
+Step 3: Download the "Pokemon Radical Red.sav", located in the Tool folder.
+Step 4: Place both of files you downloaded in a new folder, containing only the aforementioned 2 files.
+Step 5: Run the "Radical Red Egglocke Save Generator.jar", it is recommended that you set the default "open-with" program to java for .jar files, or else it might not be able to recognize the "Pokemon Radical Red.sav" file.
+Step 6: If you do not want to include all pokemon, but only certain categories, deselect the checkbox next to "All pokemon by default?".
+Step 7: You can include certain categories of pokemon by selecting the left checkbox next to the category name, you can likewise exclude certain categories of pokemon by selecting the right checkbox next to the category name. For clarity, first all pokemon that do fit the category you want are added to the list of available pokemon and afterwards all pokemon in that list that do fit a category that you want to exclude are removed. So if I want to include Gen 8 pokemon, but want to exclude galarian pokemon, then galarian pokemon forms are not included.
+Step 8: You can dilute the amount of legendaries available by heading over to the "Legendary pkmn weights" tab at the top and entering values in there. The values entered are the % chance that a pokemon of that category does not get included in the list of available pokemon.
+Step 9: Click the "Generate Egglocke" Silver-colored button at the bottom of the "Generator" Tab.
+Step 10: Move the save file to the place where the save file of your Pokemon Radical Red rom is located, this depends on the emulator, but normally is the same folder as where the .gba is located. If you don't know where this is, you can find this out by launching the Pokemon Radical Red rom, if you still don't see a save file pop up in the folder, then play the rom till you have the opportunity to save the game, then save the game and look for the location and name of the .sav (save) file.
+Step 11: If you already have a Pokemon Radical Red save file, rename or delete it, then rename the save file obtained in step 1 (or 9 if you used the tool) to whatever the save file should be named by default, as you found out in step 10.
+Step 12: Launch the Pokemon Radical Red rom. It should now load the Egglocke save file.
