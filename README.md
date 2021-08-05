@@ -127,7 +127,7 @@ Step 8: You can dilute the amount of legendaries available by heading over to th
 
 Step 9: Click the "Generate Egglocke" Silver-colored button at the bottom of the "Generator" Tab.
 
-Step 10: Move the save file to the place where the save file of your Pokemon Radical Red rom is located, this depends on the emulator, but normally is the same folder as where the .gba is located. If you don't know where this is, you can find this out by launching the Pokemon Radical Red rom, if you still don't see a save file pop up in the folder, then play the rom till you have the opportunity to save the game, then save the game and look for the location and name of the .sav (save) file.
+Step 10: Move the save file to the place where the save file of your Pokemon Radical Red rom is located, this depends on the emulator, but normally is the same folder as where the .gba is located. If you don't know where this is, you can find this out by launching the Pokemon Radical Red rom, if you still don't see a save file pop up in the folder, then play the rom till you have the opportunity to save the game, then save the game and look for the location and name of the .sav (save) file. (Note: some emulators use .srm files, you can simply rename a file to .srm instead of .sav and it should work.)
 
 Step 11: If you already have a Pokemon Radical Red save file, rename or delete it, then rename the save file obtained in step 1 (or 9 if you used the tool) to whatever the save file should be named by default, as you found out in step 10.
 
